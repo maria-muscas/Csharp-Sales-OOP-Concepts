@@ -1,0 +1,8 @@
+C:\Users\maria\TI_AN2\SEM_2\poo\vanzari\vanzari\bin\Debug\vanzari.exe.config
+C:\Users\maria\TI_AN2\SEM_2\poo\vanzari\vanzari\bin\Debug\vanzari.exe
+C:\Users\maria\TI_AN2\SEM_2\poo\vanzari\vanzari\bin\Debug\vanzari.pdb
+C:\Users\maria\TI_AN2\SEM_2\poo\vanzari\vanzari\obj\Debug\vanzari.csproj.AssemblyReference.cache
+C:\Users\maria\TI_AN2\SEM_2\poo\vanzari\vanzari\obj\Debug\vanzari.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\TI_AN2\SEM_2\poo\vanzari\vanzari\obj\Debug\vanzari.csproj.CoreCompileInputs.cache
+C:\Users\maria\TI_AN2\SEM_2\poo\vanzari\vanzari\obj\Debug\vanzari.exe
+C:\Users\maria\TI_AN2\SEM_2\poo\vanzari\vanzari\obj\Debug\vanzari.pdb
